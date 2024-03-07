@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8a2b9e2a607dd2143b58c44bc32410b4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Electronic Highway Sign
+  fallbackFontReferences: []
+  customCharacters: "a bc\xE7defg\u011Fh\u0131ijklmno\xF6prs\u015Ftu\xFCvyzABC\xC7DEFG\u011EHI\u0130JKLMO\xD6PRS\u015ETU\xDCVYZ"
+  fontRenderingMode: 2
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
